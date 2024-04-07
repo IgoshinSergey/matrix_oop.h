@@ -1,4 +1,4 @@
-# s21_matrix+
+# matrix_oop
 
 Реализация библиотеки s21_matrix_oop.h
 
